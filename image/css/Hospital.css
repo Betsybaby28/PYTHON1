@@ -1,0 +1,33 @@
+ .form{
+                display: block;
+                background-color: blue;
+                width: 800px;
+                height: 800px;
+                margin: 0 auto;                
+                text-align: center;
+            }
+            
+           .input{
+                position: relative;
+                height: 40px;
+                width: 40%;
+                border-radius: 10px;
+                text-align: center;
+                font-size: 20px;
+                vertical-align: middle;
+            }
+            
+           .submit {
+                position: relative;
+                background-color: white; 
+                border: 2px; 
+                width: 30%;
+                top: 40%;
+                padding-top: 1.5%;
+                padding-bottom: 1.5%;
+                text-align: center;
+                font-size: 30px;
+                border-radius: 10px;
+                transition-duration: 1s;
+            }
+            
